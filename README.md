@@ -1,6 +1,7 @@
 # Login app
 
-![LoginApp](https://github.com/kevinrodriguez-io/flutter-basic-login-flow/blob/master/assets/vtg.gif)
+<img src="https://github.com/kevinrodriguez-io/flutter-basic-login-flow/blob/master/assets/vtg.gif" alt="LoginApp" style="height:200px;"/>
+<!-- ![LoginApp](https://github.com/kevinrodriguez-io/flutter-basic-login-flow/blob/master/assets/vtg.gif) -->
 
 ## Eng
 This app design is inspired on Mohini Babhulkar's design on [sketchappsources.com](https://www.sketchappsources.com/free-source/3778-basic-app-login-flow-sketch-freebie-resource.html)
