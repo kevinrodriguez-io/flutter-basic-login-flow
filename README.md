@@ -1,16 +1,14 @@
-# loginapp
+# Login app
 
-Trying login app
+![LoginApp](https://github.com/kevinrodriguez-io/flutter-basic-login-flow/blob/master/assets/vtg.gif)
 
-## Getting Started
+## Eng
+This app design is inspired on Mohini Babhulkar's design on [sketchappsources.com](https://www.sketchappsources.com/free-source/3778-basic-app-login-flow-sketch-freebie-resource.html)
 
-This project is a starting point for a Flutter application.
+I decided to go further with this and implement several nice flutter features such as parametrizable blur effects, custom fonts, icons and buttons, and several other minor tweaks to the user interface to make it available to a wide device range.
 
-A few resources to get you started if this is your first Flutter project:
+## Esp
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+El diseño de esta app esta basado en el de Mohini Babhulkar en [sketchappsources.com](https://www.sketchappsources.com/free-source/3778-basic-app-login-flow-sketch-freebie-resource.html)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Sin embargo portearlo a flutter no fué tarea fácil y Decidí ir mas allá al agregar valores de desenfoque parametrizables, fuentes, iconos y botones personalizados, y otros ajustes menores a la interfaz de usuario para hacerla disponible a una alta gama de dispositivos.
